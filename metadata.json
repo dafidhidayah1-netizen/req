@@ -1,0 +1,6 @@
+{
+  "name": "Kas Terintegrasi",
+  "description": "Sistem Kas Terintegrasi Google Sheets, Drive, Kalender & Kalkulator Keuangan dengan share WhatsApp dan sinkronisasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
